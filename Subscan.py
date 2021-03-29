@@ -1,3 +1,5 @@
+# mengedit dan mereupload tidak akan membuat mu menjadi jago kawan
+# 10 - 30 maret 2021
 import time
 import sys
 import os
