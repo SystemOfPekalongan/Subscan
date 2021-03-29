@@ -58,7 +58,7 @@ med("""
 [+] Subdomain Scanner by SystemofPekalongan       [+]
 [+] Coded by root@x-krypt0n-x                     [+]
 [+] Just a simple tools to make your life is easy [+]
-[+] Thanks to : TXT, RST, KBH, Sy, MCX            [+]
+[+] Thanks to : TXT, AXS, KBH, Sy, MCX            [+]
 ===================================================== 
 """)
 print ("[!] enter your target without https: //")
