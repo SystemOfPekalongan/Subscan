@@ -50,12 +50,12 @@ def banner():
  
     """)
     med("""
-    =====================================================
-    [+] Subdomain Scanner by SystemofPekalongan       [+]
-    [+] Coded by root@x-krypt0n-x                     [+]
-    [+] Just a simple tools to make your life is easy [+]
-    [+] Thanks to : TXT, AXS, KBH, Sy, MCX, SCD       [+]
-    ===================================================== 
+    ======================================================
+    [+] Subdomain Scanner by SystemofPekalongan        [+]
+    [+] Coded by root@x-krypt0n-x                      [+]
+    [+] Just a simple tools to make your life is easy  [+]
+    [+] Thanks to : TXT, AXS, KBH, Sy, MCX, SCD, SX77C [+]
+    ====================================================== 
     """)
 
 try:
