@@ -93,6 +93,7 @@ def subdo():
         url = "https://sonar.omnisint.io/subdomains/{}".format(target)
         data = requests.get(url).json()
         for output in data:
+            time.sleep(0.005)
             print("FOUND [*]", output)
             namefile = (output)
             
