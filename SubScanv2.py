@@ -59,6 +59,7 @@ def banner():
     """)
 
 try:
+    clear()
     banner() 
     namefile = input("[?] want to save the subdoamin result file (Y/N): ").strip()
     sub = ("")
