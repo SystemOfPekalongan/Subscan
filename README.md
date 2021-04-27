@@ -1,6 +1,9 @@
 # Subscan
 Subdomain Scanner by system of pekalongan
 
+vidio:
+https://www.youtube.com/watch?v=Xxq_aJtjZbE
+
 for linux :
 1. sudo apt-get update
 2. git clone https://github.com/SystemOfPekalongan/Subscan.git
