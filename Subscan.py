@@ -1,4 +1,5 @@
 # mengedit dan mereupload tidak akan membuat mu menjadi jago kawan
+# recode + reupload lammer lo kntl, apa lagi buat pansos, belajar sana ngentod biar ga recode mulu course python banyak yg free juga, otak tu dipake buat belajar tolol
 # 10 - 30 maret 2021
 import time
 import sys
