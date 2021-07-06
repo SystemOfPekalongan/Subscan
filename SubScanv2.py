@@ -1,4 +1,5 @@
 # mengedit nama author dan mereupload nya dimana pun tidak akan mebuat mu jago kawan
+# recode + reupload lammer lo kntl, apa lagi buat pansos, belajar sana ngentod biar ga recode mulu course python banyak yg free juga, otak tu dipake buat belajar tolol
 # 18 - 19 4 21
 import requests
 import os
