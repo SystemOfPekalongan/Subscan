@@ -33,7 +33,7 @@ def med(s):
    for c in s + '\n' :
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(4. / 100)
+        time.sleep(3. / 100)
 
 def fast(s):
    for c in s + '\n' :
