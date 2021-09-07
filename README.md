@@ -1,5 +1,5 @@
 # Subscan
-# API nya mokad bang
+# API nya ga jadi mokad bang
 Subdomain Scanner by system of pekalongan
 
 vidio:
